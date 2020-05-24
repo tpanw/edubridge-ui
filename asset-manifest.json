@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/edubridge-ui/static/css/main.5365bfa4.chunk.css",
+    "main.js": "/edubridge-ui/static/js/main.3915248d.chunk.js",
+    "main.js.map": "/edubridge-ui/static/js/main.3915248d.chunk.js.map",
+    "runtime-main.js": "/edubridge-ui/static/js/runtime-main.4dc2a817.js",
+    "runtime-main.js.map": "/edubridge-ui/static/js/runtime-main.4dc2a817.js.map",
+    "static/js/2.4c52b96a.chunk.js": "/edubridge-ui/static/js/2.4c52b96a.chunk.js",
+    "static/js/2.4c52b96a.chunk.js.map": "/edubridge-ui/static/js/2.4c52b96a.chunk.js.map",
+    "index.html": "/edubridge-ui/index.html",
+    "precache-manifest.8d91ffcf414188c1fbda69e59afaa270.js": "/edubridge-ui/precache-manifest.8d91ffcf414188c1fbda69e59afaa270.js",
+    "service-worker.js": "/edubridge-ui/service-worker.js",
+    "static/css/main.5365bfa4.chunk.css.map": "/edubridge-ui/static/css/main.5365bfa4.chunk.css.map",
+    "static/js/2.4c52b96a.chunk.js.LICENSE.txt": "/edubridge-ui/static/js/2.4c52b96a.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/edubridge-ui/static/media/background.7e6361a1.jpg",
+    "static/media/group.svg": "/edubridge-ui/static/media/group.cc82aacd.svg",
+    "static/media/individual.svg": "/edubridge-ui/static/media/individual.b0d0d32e.svg",
+    "static/media/logo.svg": "/edubridge-ui/static/media/logo.b4db83e2.svg",
+    "static/media/teacher.jpg": "/edubridge-ui/static/media/teacher.ae9bae26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dc2a817.js",
+    "static/js/2.4c52b96a.chunk.js",
+    "static/css/main.5365bfa4.chunk.css",
+    "static/js/main.3915248d.chunk.js"
+  ]
+}
